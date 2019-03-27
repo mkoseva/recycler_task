@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerTask</string>
+    <string name="image">image</string>
+    <string name="welcome">Welcome</string>
 </resources>
